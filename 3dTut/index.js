@@ -3,6 +3,8 @@ class App extends React.Component{
         return (
             <div>
                 <h1>Let's play </h1>
+                <Machine    
+                />
                 <Machine 
                     s1="💎"
                     s2="🌼"
