@@ -1,0 +1,12 @@
+.Machine{
+    border: 2px solid rgb(187, 132, 238);
+    background-color: lightgrey;
+}
+.win{
+    background-color: rgb(95, 189, 95);
+    color: white;
+}
+.lose{
+    background-color: rgb(230, 95, 95);
+    color: white;
+}

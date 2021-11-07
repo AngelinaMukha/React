@@ -3,8 +3,6 @@ class App extends React.Component{
         return (
             <div>
                 <h1>Let's play </h1>
-                <Machine    
-                />
                 <Machine 
                     s1="💎"
                     s2="🌼"
@@ -26,7 +24,7 @@ class App extends React.Component{
                 />
                 <Friend
                     name="Bella"
-                    hobbies={['Drawing', 'Dancing']}
+                    hobbies={['Drawing', 'Skating']}
                 />
             </div>
         );
